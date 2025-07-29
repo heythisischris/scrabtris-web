@@ -1,2 +1,2 @@
 export * from './useGlobalStore'
-export * from './dictionary'
+export * from './nameToColor'
